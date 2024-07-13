@@ -35,10 +35,10 @@ git branch -d new-branch     # Delete the branch
 [`branch-t` & `branch-f` scenario]
 
 Actions:
-1. Checkout to `main``
+1. Checkout to `main`
 2. `git pull`
 3. Checkout to your branch
-4. `git merge main``
+4. `git merge main`
 5. Resolve conflicts
 
 ```
