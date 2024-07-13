@@ -44,4 +44,5 @@ Actions:
 
 ```
 git merge main
+git config pull.rebase false  # If asks use this option
 ```
