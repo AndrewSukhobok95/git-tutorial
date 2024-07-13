@@ -17,4 +17,6 @@ git checkout main
 git checkout new-branch
 
 git commit -a -m "comment"
+
+git pull
 ```
