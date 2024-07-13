@@ -19,6 +19,7 @@ git add .                      # Add all files
 git commit -m "first change"   # Commit staged files with message
 git commit -a -m "comment"     # Commit with message and simulteneously add staged files
 git push                       # Push commits to origin
+git pull                       # Pull commits from origin
 ```
 
 ### Branching commands
