@@ -13,4 +13,6 @@ git commit -m "first change"
 git push
 
 git checkout -b new-branch
+git checkout main
+git checkout new-branch
 ```
