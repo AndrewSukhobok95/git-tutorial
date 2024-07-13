@@ -15,4 +15,6 @@ git push
 git checkout -b new-branch
 git checkout main
 git checkout new-branch
+
+git commit -a -m "comment"
 ```
